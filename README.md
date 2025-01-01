@@ -17,7 +17,6 @@ An intuitive and robust book management system designed to enhance user experien
   - Detailed insights into sales trends and customer preferences.  
   - Manage inventory, orders, and customer details effortlessly.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +24,6 @@ An intuitive and robust book management system designed to enhance user experien
 - **Backend:** PHP  
 - **Database:** MySQL  
 
----
 
 ## 📈 Impact
 
@@ -35,7 +33,6 @@ An intuitive and robust book management system designed to enhance user experien
 - **25% Reduction in Customer Inquiries**  
   Accurate availability updates and detailed product descriptions.  
 
----
 
 ## 🖥️ Installation Guide
 
@@ -55,28 +52,3 @@ An intuitive and robust book management system designed to enhance user experien
    ```plaintext
    http://localhost/book-management-system
    ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests to improve the project.  
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
-## 🌟 Acknowledgments
-
-Special thanks to the open-source community for providing tools and resources that made this project possible.  
-
----
-
-Made with ❤️ by [Your Name](https://github.com/your-username)
-```
-
-Feel free to replace placeholders like `your-username` and `Your Name` with your actual details.
