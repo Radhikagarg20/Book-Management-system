@@ -1,5 +1,3 @@
-
-```markdown
 # Efficient Book Management System 📚
 
 An intuitive and robust book management system designed to enhance user experience, streamline inventory processes, and boost sales. Built with a powerful tech stack combining PHP and MySQL for backend operations and modern web technologies for a seamless frontend experience.
