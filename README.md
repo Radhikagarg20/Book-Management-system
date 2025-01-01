@@ -1,4 +1,3 @@
-Here’s a professional and visually appealing README.md file description for your GitHub project:
 
 ```markdown
 # Efficient Book Management System 📚
